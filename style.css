@@ -1,5 +1,5 @@
 .h1 {
-color:#993f2b;
+color:#b04b35;
 font-size: 66px;
 text-align: center;
 }
@@ -17,8 +17,27 @@ font-size: 34px;
 	text-decoration: none;
 }
 .header {
-	width:960px;
-	background: #f2937e;
-	margin:auto;
-	padding:auto;
+	background: #fca692;
+	margin: 100px auto;
+	padding: 15px 25px;
+	text-align: center;
+}
+.feedback {
+	margin: 100px auto;
+	font-size: 35px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.container {
+	width: 960px;
+	border: 2px solid #000;
+	border-radius: 100px;
+}
+.form__input {
+	width:400px;
+	background:white;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 4px;
+	
 }
