@@ -35,9 +35,19 @@ font-size: 34px;
 }
 .form__input {
 	width:400px;
-	background:white;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	background: white;
 	border: 1px solid;
 	font-size: 14px;
-	padding: 10px 4px;
-	
+	padding: 10px 4px;	
+}
+.form__button {
+	width: 400px;
+	background: black;
+	border: 0;
+	font-size: 14px;
+	padding: 10px;
+	color: white;
 }
