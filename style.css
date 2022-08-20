@@ -11,6 +11,7 @@ text-align: center;
 .link {
 color:#000;
 font-size: 34px;
+margin-left: 20px;
 }
 .link:hover {
 	color:#993f2b;
@@ -42,6 +43,7 @@ font-size: 34px;
 	border: 1px solid;
 	font-size: 14px;
 	padding: 10px 4px;	
+	text-align: center;
 }
 .form__button {
 	width: 400px;
@@ -50,4 +52,27 @@ font-size: 34px;
 	font-size: 14px;
 	padding: 10px;
 	color: white;
+	display: block;
+	margin: auto;
+}
+.window {
+	width: 670px;
+	margin: auto;
+	margin-bottom: 10px;
+	background: white;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 30px;
+}
+.knopka {
+	width: 200px;
+	margin: auto;
+	margin-bottom: 10px;
+    background: white;
+	color: #b04b35;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 4px;	
+	text-align: center;
+	display: block;
 }
