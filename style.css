@@ -21,8 +21,8 @@ body::before {
 }
 .text {
 	color:#7fffd4;
-	text-decoration: underline;
 	text-align: center;
+	font-size: 18px;
 }
 .link {
 	color:#7fffd4;
